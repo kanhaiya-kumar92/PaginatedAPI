@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.userCard {
+  background-color: black;
+  color: white;
+}
+.userCard:hover {
+  background-color: white;
+  color: black;
+}
+.avatar {
+}
+.user {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pagination {
+}
